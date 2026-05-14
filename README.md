@@ -3,8 +3,8 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E75B6,100:00D4FF&height=200&section=header&text=Ferdoush&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Flutter%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Android+%7C+Node.js+%7C+Laravel;Firebase+%7C+Supabase+%7C+AdMob;Building+Apps+that+Generate+Passive+Income+💰;Open+to+Freelance+%26+Collaboration+🤝" alt="Typing SVG" />
+<!-- Typing Animation — emoji percent-encoded -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Flutter+%7C+Android+%7C+Node.js+%7C+Laravel;Firebase+%7C+Supabase+%7C+AdMob;Building+Apps+that+Generate+Passive+Income+%F0%9F%92%B0;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
@@ -92,13 +92,16 @@ class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=md-ferdoush650&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=0E75B6&text_color=ffffff&count_private=true" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ferdoush650&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" width="48%"/>
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=md-ferdoush650&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=0E75B6&text_color=ffffff&count_private=true" height="165"/>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ferdoush650&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-ferdoush650&theme=tokyonight&hide_border=true&background=0D1117&stroke=0E75B6&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="60%"/>
+<!-- Streak Stats — using demolab (more stable than herokuapp) -->
+<img src="https://streak-stats.demolab.com/?user=md-ferdoush650&theme=tokyonight&hide_border=true&background=0D1117&stroke=0E75B6&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="165"/>
 
 </div>
 
