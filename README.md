@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E75B6,100:00D4FF&height=200&section=header&text=Md Ferdoush&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Flutter%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E75B6,100:00D4FF&height=200&section=header&text=MdFerdoush&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Flutter%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation — emoji percent-encoded -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Flutter+%7C+Android+%7C+Node.js+%7C+Laravel;Firebase+%7C+Supabase+%7C+AdMob;Building+Apps+that+Generate+Passive+Income+%F0%9F%92%B0;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
